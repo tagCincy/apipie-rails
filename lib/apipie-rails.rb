@@ -13,7 +13,7 @@ require "apipie/errors"
 require "apipie/error_description"
 require "apipie/see_description"
 require "apipie/validator"
-require "apipie/railtie"
+# require "apipie/railtie"
 require 'apipie/extractor'
 require "apipie/version"
 
